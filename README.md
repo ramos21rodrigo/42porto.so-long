@@ -35,4 +35,4 @@ make
 
 ___
 ###### At  [42School](https://en.wikipedia.org/wiki/42_(school)), every project has specific rules or restrictions, and some of them must be written in accordance with the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explicit, and some used technologies could be different.
-Made with tears 🥲 Rodrigo
+Made with tears 🥲
