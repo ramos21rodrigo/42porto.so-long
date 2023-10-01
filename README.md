@@ -1,14 +1,13 @@
 
-# 42: So long<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Logo" width="45" height="45" align="right" /> &nbsp;
+# [120/100] so_long
+__This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.__    
 
-## Grade: 121(¯\_(ツ)_/¯)/100
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff&style=flat")
 
+## 👀 Preview
 ![](preview.gif)
 
-### ♠️ About
->This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.
-
-### ♥️ Installing and running the project:
+### ⬇️ Installing and running the project:
 1. Clone && cd
 ```
 git clone https://github.com/ramos21rodrigo/42porto.so-long.git && cd 42porto.so-long
@@ -23,9 +22,9 @@ make
 ```
 ./so_long tests/map{x}.ber
 ```
-######  Change (x) with any available map or add your own :) .
+>  Change (x) with any available map or add your own :) .
 
-### ♣️ Makefile Available Targets:
+### ⚙️ Makefile Available Targets:
 - `make` or `make all` - Makes _so-long_ and _mlx_
 
 - `make clean` - Deletes all the resulting object files
