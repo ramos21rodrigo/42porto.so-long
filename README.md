@@ -34,4 +34,5 @@ make
 - `make re` - Deletes everything (object files and _so-long_) and rebuilds _so-long_
 
 ___
-######  At [42School](https://en.wikipedia.org/wiki/42_(school)), almost every project must be written in accordance to the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explcit.
+###### At  [42School](https://en.wikipedia.org/wiki/42_(school)), every project has specific rules or restrictions, and some of them must be written in accordance with the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explicit, and some used technologies could be different.
+Made with tears 🥲 Rodrigo
