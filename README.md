@@ -7,6 +7,10 @@ __This project is a small 2D game with minilibx. You'll learn about textures, sp
 ## 👀 Preview
 ![](preview.gif)
 
+## 🌟 Skills
+> Graphics   
+> Imperative programming
+
 ### ⬇️ Installing and running the project:
 1. Clone && cd
 ```
