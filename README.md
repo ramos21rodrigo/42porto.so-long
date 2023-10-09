@@ -11,7 +11,7 @@ __This project is a small 2D game with minilibx. You'll learn about textures, sp
 > Graphics   
 > Imperative programming
 
-### ⬇️ Installing and running the project:
+## ⬇️ Installing and running the project:
 1. Clone && cd
 ```
 git clone https://github.com/ramos21rodrigo/42porto.so-long.git && cd 42porto.so-long
@@ -28,7 +28,7 @@ make
 ```
 >  Change (x) with any available map or add your own :) .
 
-### ⚙️ Makefile Available Targets:
+## ⚙️ Makefile Available Targets:
 - `make` or `make all` - Makes _so-long_ and _mlx_
 
 - `make clean` - Deletes all the resulting object files
